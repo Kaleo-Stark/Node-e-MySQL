@@ -1,0 +1,23 @@
+{
+  "name": "node-e-mysql",
+  "version": "1.0.0",
+  "description": "Um exemplo simples de como utilizar o banco de dados open source MySQL com NodeJs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaleo-Stark/Node-e-MySQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaleo-Stark/Node-e-MySQL/issues"
+  },
+  "homepage": "https://github.com/Kaleo-Stark/Node-e-MySQL#readme",
+  "dependencies": {
+    "mysql2": "^2.2.5"
+  }
+}
